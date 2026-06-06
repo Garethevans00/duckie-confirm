@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["M3L9543WC2.com.duckdash.duckie"],
+        "components": [
+          { "/": "/*" }
+        ]
+      }
+    ]
+  }
+}
